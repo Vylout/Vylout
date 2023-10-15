@@ -1,16 +1,15 @@
-### Hi there 👋
+<div align="center">Hi there, I'm  Pavel </div>
 
-<!--
-**Vylout/Vylout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">_______________________ </div>
 
-Here are some ideas to get you started:
+<div align="center">Java Developer from Russia, Perm </div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div id="socials" align="center">
+    <a href="https:// www.linkedin.com/in/pavel-korotkikh">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+
+  <a href="https://www.t.me/vylout">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+</div>
